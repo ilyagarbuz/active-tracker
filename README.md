@@ -1,4 +1,4 @@
-# workout_tracker
+# Active Tracker
 
 ## Project setup
 ```
